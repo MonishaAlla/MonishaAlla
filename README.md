@@ -19,3 +19,7 @@ Pega Certified Lead System Architect
 
 **Stack:** Python · LangGraph · LangChain · FastAPI · Amazon Bedrock · SageMaker · Azure OpenAI ·
 OpenSearch / pgvector / Pinecone · Docker · Terraform
+
+### Featured work
+- **[agentic-ops-agent](https://github.com/MonishaAlla/agentic-ops-agent)** — human-in-the-loop
+  operations triage agent (LangGraph): risk-tiered tools, prompt-injection defence, eval-gated CI
