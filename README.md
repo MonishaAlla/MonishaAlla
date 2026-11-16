@@ -16,3 +16,6 @@ guardrails & safety · cost and latency engineering · AWS
 
 **Certifications:** AWS Certified Machine Learning – Specialty · AWS Certified AI Practitioner ·
 Pega Certified Lead System Architect
+
+**Stack:** Python · LangGraph · LangChain · FastAPI · Amazon Bedrock · SageMaker · Azure OpenAI ·
+OpenSearch / pgvector / Pinecone · Docker · Terraform
